@@ -10,7 +10,7 @@ It's available for python.
 
 ### Usage
 
-1. Open the ```Preferences``` 
+1. Open the ```Preferences...``` 
 
    ![preferences](assets/preferences.png)
 
